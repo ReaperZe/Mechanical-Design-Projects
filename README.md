@@ -7,7 +7,7 @@ This folder contains multiple mechanical design projects developed for academic 
 
 Skills Demonstrated
 
-  *3D Part Modeling in SolidWorks
+  -3D Part Modeling in SolidWorks
   *Assembly Design and Mates
   *Engineering Drawings with GD&T
   *Parametric and Feature-based Design
