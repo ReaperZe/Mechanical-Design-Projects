@@ -7,25 +7,25 @@ This folder contains multiple mechanical design projects developed for academic 
 
 Skills Demonstrated
 
-  3D Part Modeling in SolidWorks
-  Assembly Design and Mates
-  Engineering Drawings with GD&T
-  Parametric and Feature-based Design
-  Design for Manufacturing considerations
-  Exporting models to STEP / STL formats
-  Rendering and Visualization
-  Folder Contents
+  *3D Part Modeling in SolidWorks
+  *Assembly Design and Mates
+  *Engineering Drawings with GD&T
+  *Parametric and Feature-based Design
+  *Design for Manufacturing considerations
+  *Exporting models to STEP / STL formats
+  *Rendering and Visualization
+  *Folder Contents
 
 
 Each project folder may include:
 
-  .sldprt – SolidWorks part files
-  .sldasm – SolidWorks assembly files
-  .slddrw – Technical drawing files
-  .STEP / .IGES – Neutral CAD formats
-  .STL – 3D printable models
-  .png / .jpg – Rendered images
-  .mp4 – Model rotation or assembly animations
+  *.sldprt – SolidWorks part files
+  *.sldasm – SolidWorks assembly files
+  *.slddrw – Technical drawing files
+  *.STEP / .IGES – Neutral CAD formats
+  *.STL – 3D printable models
+  *.png / .jpg – Rendered images
+  *.mp4 – Model rotation or assembly animations
 
 
 Purpose
@@ -34,9 +34,9 @@ Purpose
 
 Software Used
 
-  SolidWorks (3D CAD Modeling)
-  SolidWorks Drawing Environment
-  SolidWorks Visualize (Rendering, where applicable)
+  *SolidWorks (3D CAD Modeling)
+  *SolidWorks Drawing Environment
+  *SolidWorks Visualize (Rendering, where applicable)
 
 Author
 
