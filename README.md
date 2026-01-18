@@ -7,34 +7,39 @@ This folder contains multiple mechanical design projects developed for academic 
 
 Skills Demonstrated
 
-3D Part Modeling in SolidWorks
+  3D Part Modeling in SolidWorks
+  Assembly Design and Mates
+  Engineering Drawings with GD&T
+  Parametric and Feature-based Design
+  Design for Manufacturing considerations
+  Exporting models to STEP / STL formats
+  Rendering and Visualization
+  Folder Contents
 
-Assembly Design and Mates
-
-Engineering Drawings with GD&T
-
-Parametric and Feature-based Design
-
-Design for Manufacturing considerations
-
-Exporting models to STEP / STL formats
-
-Rendering and Visualization
-
-Folder Contents
 
 Each project folder may include:
 
-.sldprt – SolidWorks part files
+  .sldprt – SolidWorks part files
+  .sldasm – SolidWorks assembly files
+  .slddrw – Technical drawing files
+  .STEP / .IGES – Neutral CAD formats
+  .STL – 3D printable models
+  .png / .jpg – Rendered images
+  .mp4 – Model rotation or assembly animations
 
-.sldasm – SolidWorks assembly files
 
-.slddrw – Technical drawing files
+Purpose
 
-.STEP / .IGES – Neutral CAD formats
+  This repository is intended to serve as a professional portfolio for internships, job applications, and academic evaluation. It allows recruiters and collaborators to explore my design               capabilities and approach to mechanical problem-solving.
 
-.STL – 3D printable models
+Software Used
 
-.png / .jpg – Rendered images
+  SolidWorks (3D CAD Modeling)
+  SolidWorks Drawing Environment
+  SolidWorks Visualize (Rendering, where applicable)
 
-.mp4 – Model rotation or assembly animations
+Author
+
+  Anuj Kumar Singh
+  Mechanical Design Enthusiast
+  (Open to internships and collaboration opportunities)
